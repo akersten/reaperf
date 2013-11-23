@@ -1,7 +1,7 @@
 reaperf
 =======
 
-File reaper. Lists or consolidates duplicate files. Support for multiple matching strategies and directory recursion.
+File reaper. Lists, renames, or deletes duplicate files. Support for multiple matching strategies and directory recursion.
 
 
 ### Features
